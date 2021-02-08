@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+#myCarousel {
+
+    background-color: red;
+}
+
+#myCarousel img {
+    text-align: center;
+    height: 550px;
+    width: 650px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.gif {
+    height: 350px;
+    width: 750px;
+}
+
+#gridView {
+    background-color: aqua;
+}
+
+#GV {
+    height: 250px;
+    width: 250px;
+}
